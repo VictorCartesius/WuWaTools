@@ -11,7 +11,7 @@ The script automatically locates the newest game log, supports both plain-text l
 ## Requirements
 
 - Windows
-- Windows PowerShell 5.0 or later
+- Windows PowerShell 5.1 or later
 - Wuthering Waves installed
 - Open the in-game Convene History page at least once before running the script
 
@@ -102,7 +102,7 @@ Licensed under the [GNU General Public License v3.0](LICENSE).
 ## 运行要求
 
 - Windows
-- Windows PowerShell 5.0 或更高版本
+- Windows PowerShell 5.1 或更高版本
 - 已安装《鸣潮》
 - 运行脚本前，至少在游戏内打开过一次抽卡历史页面
 
